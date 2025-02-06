@@ -15,4 +15,4 @@ Its a git client with support for:
 - Visual commit creation
 - Visual commit reordering
 - AI features
-- An more
+- And more
